@@ -1,0 +1,64 @@
+# sent_id = 1
+# text = 
+
+# sent_id = 2
+# text = Amisch:
+1	Amisch:	_	NOUN	_	_	_	_	_	yiddish=אַמיש:
+
+# sent_id = 3
+# text = Die Amische sinn Widderdaafer  ( Anabaptists )  - sie nemme ihre Naame vum Jakob Ammann . 
+1	Die	_	DET	_	_	_	_	_	yiddish=דיע
+2	Amische	_	NOUN	_	_	_	_	_	yiddish=אַמישע
+3	sinn	_	VERB	_	_	_	_	_	yiddish=זיננ
+4	Widderdaafer	_	NOUN	_	_	_	_	_	yiddish=ווידדערדאַאַפֿער
+5	(	_	PUNCT	_	_	_	_	_	yiddish=(
+6	Anabaptists	NOUN	_	_	_	_	_	_	yiddish=אַנאַבאַפּטיזטז
+7	)	_	PUNCT	_	_	_	_	_	yiddish=)
+8	-	_	_	_	_	_	_	_	yiddish=-
+9	sie	_	PRON	_	_	_	_	_	yiddish=זיע
+10	nemme	_	VERB	_	_	_	_	_	yiddish=נעממע
+11	ihre	_	DET	_	_	_	_	_	yiddish=יהרע
+12	Naame	_	NOUN	_	_	_	_	_	yiddish=נאַאַמע
+13	vum	_	ADP	_	_	_	_	_	yiddish=vומ
+14	Jakob	_	PROPN	_	_	_	_	_	yiddish=jאַקאָב
+15	Ammann	_	PROPN	_	_	_	_	_	yiddish=אַממאַננ
+16	.	_	PUNCT	_	_	_	_	_	yiddish=.
+
+# sent_id = 4
+# text = Deel Leit meene's watt gaar ken Technology geyused unnich die Amische . 
+1	Deel	_	DET	_	_	_	_	_	yiddish=דעעל
+2	Leit	_	NOUN	_	_	_	_	_	yiddish=לעיט
+3	meene's	_	VERB	_	_	_	_	_	yiddish=מעענע'ז
+4	watt	_	ADV	_	_	_	_	_	yiddish=וואַטט
+5	gaar	_	ADV	_	_	_	_	_	yiddish=גאַאַר
+6	ken	_	DET	_	_	_	_	_	yiddish=קענ
+7	Technology	_	NOUN	_	_	_	_	_	yiddish=טעכנאָלאָגy
+8	geyused	_	VERB	_	_	_	_	_	yiddish=געyוזעד
+9	unnich	_	ADP	_	_	_	_	_	yiddish=ונניכ
+10	die	_	DET	_	_	_	_	_	yiddish=דיע
+11	Amische	_	NOUN	_	_	_	_	_	yiddish=אַמישע
+12	.	_	PUNCT	_	_	_	_	_	yiddish=.
+
+# sent_id = 5
+# text = Deel vunne diehn yuscht gans wennich modern Technology yuuse ,  awwer Annere sinn meh modern . 
+1	Deel	_	DET	_	_	_	_	_	yiddish=דעעל
+2	vunne	_	ADP	_	_	_	_	_	yiddish=vוננע
+3	diehn	_	VERB	_	_	_	_	_	yiddish=דיעהנ
+4	yuscht	_	ADV	_	_	_	_	_	yiddish=yושט
+5	gans	_	ADV	_	_	_	_	_	yiddish=גאַנז
+6	wennich	_	ADV	_	_	_	_	_	yiddish=ווענניכ
+7	modern	_	ADJ	_	_	_	_	_	yiddish=מאָדערנ
+8	Technology	_	NOUN	_	_	_	_	_	yiddish=טעכנאָלאָגy
+9	yuuse	_	VERB	_	_	_	_	_	yiddish=yווּזע
+10	,	_	PUNCT	_	_	_	_	_	yiddish=,
+11	awwer	_	CCONJ	_	_	_	_	_	yiddish=אַווווער
+12	Annere	_	NOUN	_	_	_	_	_	yiddish=אַננערע
+13	sinn	_	VERB	_	_	_	_	_	yiddish=זיננ
+14	meh	_	ADV	_	_	_	_	_	yiddish=מעה
+15	modern	_	ADJ	_	_	_	_	_	yiddish=מאָדערנ
+16	.	_	PUNCT	_	_	_	_	_	yiddish=.
+
+# sent_id = 6
+# text = 
+
+
