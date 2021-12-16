@@ -348,7 +348,6 @@ for x in possible_showdowns:
 		totalsimulations = totalsimulations + 1
 		#counts heros wins
 		if does_hero_win(heros_possible_hand, possible_showdowns[x][y]) == True:
-			print('hero wins')
 			herowins = herowins + 1
 		#counts ties
 		else:
