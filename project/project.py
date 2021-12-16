@@ -19,7 +19,7 @@ for x in facecards:
 herowins = 0
 totalsimulations = 0
 #defines the full or partial hands the user assigns to themselves and their opponent - if a given card is unknown a player can input x instead and the program will calculate possible outcomes
-heroshand = ['5c','4c','4d','2h','2d']
+heroshand = ['5c','4c','4d','2h','x']
 villainshand = ['5d','4h','4s','2c','2s']
 #lets the user input any cards they know to be out of play such as discarded cards and removes them from the deck 
 deadcards = []
