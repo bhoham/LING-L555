@@ -344,8 +344,6 @@ for x in possible_showdowns:
 	heros_possible_hand = heros_possible_hand.split(',')
 	#loops through each possible hand villain can have for each hand hero can have
 	for y in range(0,len(possible_showdowns[x])):
-		#TEMPORARY
-		print(heros_possible_hand, possible_showdowns[x],find_handclass(heros_possible_hand),find_handclass(possible_showdowns[x][y]))	
 		#counts combinations
 		totalsimulations = totalsimulations + 1
 		#counts heros wins
